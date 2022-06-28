@@ -1,1 +1,5 @@
-# sql-e.g.
+# SQL 
+
+
+
+# [Profil](https://app.patika.dev/Resulcgun)
